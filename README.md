@@ -15,5 +15,3 @@ estoy haciendo unos cambios
 sdadsas
 ya feer
 >>>>>>> 3e6757c2816dff3c25a93a82ea087ad8888ce10b
->>>>>>> 98cd4ef37f8cbed3e05123d3de42f40f25bd0050
-hola, me caen mal 
